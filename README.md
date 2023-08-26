@@ -28,10 +28,7 @@ Ferramentas GIT
 GitHub
 
 
-![Top linguagem](https://github-readme-stats.vercel.app/api/top-langs/?username=javiergonzalez55)
-
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=javiergonzalez55)
-
+![Top linguagem](https://github-readme-stats.vercel.app/api/top-langs/?username=javiergonzalez55&theme=merko&custom_title=Top%20%Linguagens)
 
 
 
